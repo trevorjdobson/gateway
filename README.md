@@ -9,7 +9,7 @@
   * https://hjnbrvdt2e.execute-api.us-east-1.amazonaws.com/dev/tasks/
     *{"title":"new","description":"new","assignee":"uopu"}
     
-* PUT 
+* PUT
  * https://hjnbrvdt2e.execute-api.us-east-1.amazonaws.com/dev/tasks/{user}/assign/{id}
-  * assigns the task to a user
+   * assigns the task to a user
 
